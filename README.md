@@ -1,5 +1,5 @@
 # New-AI-In-Progress
-My new Ai
+Les debuts de ma nouvelle ai , cache cache , pas de moteur de déscision ...
 
 
 
